@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Miðstöð ehf">
+  <rect width="64" height="64" rx="10" fill="#14110f"/>
+  <g transform="translate(6 18) rotate(-18 26 14)">
+    <!-- handle -->
+    <rect x="18" y="10.2" width="38" height="8.2" rx="4.1" fill="#c8102e"/>
+    <circle cx="52.4" cy="14.3" r="2.1" fill="#14110f"/>
+    <!-- housing -->
+    <path d="M8 6.5h14.5c2.2 0 3.6 1.6 3.6 3.8v8c0 2.2-1.4 3.8-3.6 3.8H8c-1.8 0-3.2-1.5-3.2-3.4V9.9C4.8 8 6.2 6.5 8 6.5z" fill="#c8102e"/>
+    <!-- heel jaw -->
+    <path d="M5.2 8.4h7.2v4.6H7.4L5.2 11.2z" fill="#2a2724"/>
+    <!-- hook jaw -->
+    <path d="M4.4 4.2h9.2c.9 0 1.5.7 1.5 1.5v3.1H6.6L3.6 6.8c-.6-.5-.4-1.8.8-2.6z" fill="#2a2724"/>
+    <!-- teeth -->
+    <path d="M6.2 8.4l1.1-1.4 1.1 1.4H6.2zm2.6 0 1.1-1.4 1.1 1.4H8.8z" fill="#efe8dc"/>
+    <!-- nut -->
+    <circle cx="20.6" cy="14.3" r="3.4" fill="#2a2724"/>
+    <circle cx="20.6" cy="14.3" r="1.5" fill="#efe8dc"/>
+  </g>
+</svg>

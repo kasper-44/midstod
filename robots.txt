@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://midstod.vercel.app/sitemap.xml

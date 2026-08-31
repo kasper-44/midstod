@@ -1,0 +1,13 @@
+{
+  "name": "Miðstöð ehf",
+  "short_name": "Miðstöð",
+  "lang": "is",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#efe8dc",
+  "theme_color": "#14110f",
+  "icons": [
+    { "src": "img/favicon-48.png", "sizes": "48x48", "type": "image/png" },
+    { "src": "img/apple-touch.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

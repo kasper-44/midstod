@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" role="img" aria-label="Miðstöð ehf">
+  <rect width="720" height="200" fill="#efe8dc"/>
+  <g transform="translate(36 58)">
+    <g transform="rotate(-6 120 28)">
+      <rect x="86" y="22" width="196" height="22" rx="11" fill="#c8102e"/>
+      <circle cx="270" cy="33" r="5.5" fill="#efe8dc"/>
+      <path d="M18 12h62c8 0 13 6 13 13v16c0 7-5 13-13 13H18c-7 0-13-6-13-13V25c0-7 6-13 13-13z" fill="#c8102e"/>
+      <path d="M10 16h28v14H18L10 24z" fill="#2a2724"/>
+      <path d="M8 6h36c3.2 0 5.4 2.4 5.4 5.4V20H16L6 12c-2-1.8-1.2-6 2-6z" fill="#2a2724"/>
+      <path d="M14 20l4-5 4 5h-8zm10 0 4-5 4 5h-8z" fill="#efe8dc"/>
+      <circle cx="92" cy="33" r="10" fill="#2a2724"/>
+      <circle cx="92" cy="33" r="4.2" fill="#efe8dc"/>
+    </g>
+  </g>
+  <text x="36" y="168" fill="#14110f" font-family="Arial Black, Helvetica Neue, Arial, sans-serif" font-size="64" font-style="italic" font-weight="800" letter-spacing="-1.5">Miðstöð</text>
+  <text x="292" y="168" fill="#14110f" font-family="Arial, Helvetica, sans-serif" font-size="28" font-style="italic" font-weight="700">ehf</text>
+</svg>
